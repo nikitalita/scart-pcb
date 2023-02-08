@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "scart-pcb")(type "KiCad")(uri "${KIPRJMOD}/scart-pcb.kicad_sym")(options "")(descr ""))
+  (lib (name "6TPE220MZB")(type "KiCad")(uri "${KIPRJMOD}/parts/6TPE220MZB.kicad_sym")(options "")(descr ""))
+)

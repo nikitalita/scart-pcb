@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SCART-PCB")(type "KiCad")(uri "${KIPRJMOD}/SCART-PCB.pretty")(options "")(descr ""))
+  (lib (name "6TPE220MZB")(type "KiCad")(uri "${KIPRJMOD}/parts/6TPE220MZB.pretty")(options "")(descr ""))
+)
